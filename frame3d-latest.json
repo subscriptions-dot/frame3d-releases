@@ -1,8 +1,8 @@
 {
-  "versionCode": 215,
-  "versionName": "1.84-rc82",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc82/Frame3D-quest.apk",
-  "sha256": "8344c2dbfcbd52abf1f1c6e0d252e40bde7c5dc63ecd925810e4160ffcd0a2ff",
-  "sizeBytes": 359188273,
-  "notes": "Site permissions work on GeckoView; tabs restore instead of being offered and lost"
+  "versionCode": 216,
+  "versionName": "1.84-rc83",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc83/Frame3D-quest.apk",
+  "sha256": "5c2ab14ccb8cf551153569dcec5e7e11fbf2f62551b973a60f1988bb1ed28b37",
+  "sizeBytes": 359205345,
+  "notes": "GeckoView everywhere, immersive included"
 }
