@@ -1,8 +1,8 @@
 {
-  "versionCode": 200,
-  "versionName": "1.84-rc67",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc67/Frame3D-quest.apk",
-  "sha256": "664ea2d59235c501d0e7b2a9fc2475d80f729bfbdb8231e9296fe94b0ad1f3ee",
-  "sizeBytes": 358974529,
-  "notes": "Install actually installs; the downloaded APK is saved somewhere you can find it"
+  "versionCode": 201,
+  "versionName": "1.84-rc68",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc68/Frame3D-quest.apk",
+  "sha256": "bb771a87d66ca3895797bf813c8d6754d73daee841db6f81ca77168161d7c814",
+  "sizeBytes": 359040177,
+  "notes": "3D self-test you can see, screenshot mark-up and send, Download/Frame3D folder"
 }
