@@ -1,8 +1,8 @@
 {
-  "versionCode": 195,
-  "versionName": "1.84-rc62",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc62/Frame3D-quest.apk",
-  "sha256": "79439f6a9bb890ce0f5ed783bd08edace12aecb24f592124b403f0bcab9f7f22",
-  "sizeBytes": 358892549,
-  "notes": "Self-update, three-layer parallax, stronger Fast 3D, Smart on web pages"
+  "versionCode": 196,
+  "versionName": "1.84-rc63",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc63/Frame3D-quest.apk",
+  "sha256": "b0645d624be22d2a53555b260eb5041716c3a8d1b59cec08f74e75bf5e2fc808",
+  "sizeBytes": 358908509,
+  "notes": "Update address built in — no setup needed"
 }
