@@ -1,8 +1,8 @@
 {
-  "versionCode": 208,
-  "versionName": "1.84-rc75",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc75/Frame3D-quest.apk",
-  "sha256": "5f59a10aba880926bdd2659efaaeef968c4ca27c7dc57baf7a3225f8b69e53bc",
-  "sizeBytes": 359089501,
-  "notes": "Phone build launches at all; parallax no longer switches 3D off"
+  "versionCode": 209,
+  "versionName": "1.84-rc76",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc76/Frame3D-quest.apk",
+  "sha256": "a9f1f852431ab0419144ea5ef40aeb5cd3aa39c84b4c64b5f9bc5cf679924021",
+  "sizeBytes": 359089949,
+  "notes": "Parallax and 3D run together; parallax measures lean, not where you sat down"
 }
