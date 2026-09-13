@@ -1,8 +1,8 @@
 {
-  "versionCode": 197,
-  "versionName": "1.84-rc64",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc64/Frame3D-quest.apk",
-  "sha256": "cf0e26a3380726847036f5a50d6d89b1ff9110b65fb1d401c8814e3d6a5875f5",
-  "sizeBytes": 358924901,
-  "notes": "Software update page: version, progress, retry, install"
+  "versionCode": 198,
+  "versionName": "1.84-rc65",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc65/Frame3D-quest.apk",
+  "sha256": "b7a7b97016c4b219c87ab81f622a02d303e1cd7f4681563ba1a6b2e8de59c856",
+  "sizeBytes": 358941769,
+  "notes": "Rail and dock: placed in world space, correct at every screen size"
 }
