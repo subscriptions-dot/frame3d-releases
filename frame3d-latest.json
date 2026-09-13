@@ -1,8 +1,8 @@
 {
-  "versionCode": 199,
-  "versionName": "1.84-rc66",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc66/Frame3D-quest.apk",
-  "sha256": "ca533a5bc94fa7d4ae1e82ad0bceaee793464c5903def08c5f3f78a2b2544ce4",
-  "sizeBytes": 358958117,
-  "notes": "Evidence capture: hold B+Y in the headset to write a full 3D diagnosis"
+  "versionCode": 200,
+  "versionName": "1.84-rc67",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc67/Frame3D-quest.apk",
+  "sha256": "664ea2d59235c501d0e7b2a9fc2475d80f729bfbdb8231e9296fe94b0ad1f3ee",
+  "sizeBytes": 358974529,
+  "notes": "Install actually installs; the downloaded APK is saved somewhere you can find it"
 }
