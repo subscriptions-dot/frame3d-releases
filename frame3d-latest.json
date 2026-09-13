@@ -1,8 +1,8 @@
 {
-  "versionCode": 216,
-  "versionName": "1.84-rc83",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc83/Frame3D-quest.apk",
-  "sha256": "5c2ab14ccb8cf551153569dcec5e7e11fbf2f62551b973a60f1988bb1ed28b37",
-  "sizeBytes": 359205345,
-  "notes": "GeckoView everywhere, immersive included"
+  "versionCode": 217,
+  "versionName": "1.84-rc84",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc84/Frame3D-quest.apk",
+  "sha256": "78768b27aa3cbf9b692a19a1c7ed8dbc5fa572f99dea7fdf87a4ebcbc1f22d09",
+  "sizeBytes": 359205125,
+  "notes": ""
 }
