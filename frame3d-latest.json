@@ -1,8 +1,8 @@
 {
-  "versionCode": 202,
-  "versionName": "1.84-rc69",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc69/Frame3D-quest.apk",
-  "sha256": "0ad3756c9d8cac8f5eef090b01916823b2b39309968777053c6fdb5814173d36",
-  "sizeBytes": 359040589,
-  "notes": "Fixes immersive-scene-setup-failed on rc68"
+  "versionCode": 203,
+  "versionName": "1.84-rc70",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc70/Frame3D-quest.apk",
+  "sha256": "529f4f78edd4e95bbacff00ef10bec7652b7b560cccd77d3b22b8c579ed20b72",
+  "sizeBytes": 359040169,
+  "notes": "Immersive crash fix, plus honest labelling on the report screen"
 }
