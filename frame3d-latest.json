@@ -1,8 +1,8 @@
 {
-  "versionCode": 206,
-  "versionName": "1.84-rc73",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc73/Frame3D-quest.apk",
-  "sha256": "4008d5ef62aa6d0471bed3796a19bf84b9cf4fef9f589e3c70caa8850ca19d2f",
-  "sizeBytes": 359073125,
-  "notes": "One press sends everything; token is entered on the headset, not built in"
+  "versionCode": 207,
+  "versionName": "1.84-rc74",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc74/Frame3D-quest.apk",
+  "sha256": "152543dd7c9337d4b9acc6af6c399e9c5ad48a9ea42331665a085ec5c97a673f",
+  "sizeBytes": 359089485,
+  "notes": "Parallax was blinding the media probe and switching 3D off. Fixed."
 }
