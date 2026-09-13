@@ -1,8 +1,8 @@
 {
-  "versionCode": 207,
-  "versionName": "1.84-rc74",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc74/Frame3D-quest.apk",
-  "sha256": "152543dd7c9337d4b9acc6af6c399e9c5ad48a9ea42331665a085ec5c97a673f",
-  "sizeBytes": 359089485,
-  "notes": "Parallax was blinding the media probe and switching 3D off. Fixed."
+  "versionCode": 208,
+  "versionName": "1.84-rc75",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc75/Frame3D-quest.apk",
+  "sha256": "5f59a10aba880926bdd2659efaaeef968c4ca27c7dc57baf7a3225f8b69e53bc",
+  "sizeBytes": 359089501,
+  "notes": "Phone build launches at all; parallax no longer switches 3D off"
 }
