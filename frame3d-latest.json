@@ -1,8 +1,8 @@
 {
-  "versionCode": 201,
-  "versionName": "1.84-rc68",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc68/Frame3D-quest.apk",
-  "sha256": "bb771a87d66ca3895797bf813c8d6754d73daee841db6f81ca77168161d7c814",
-  "sizeBytes": 359040177,
-  "notes": "3D self-test you can see, screenshot mark-up and send, Download/Frame3D folder"
+  "versionCode": 202,
+  "versionName": "1.84-rc69",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc69/Frame3D-quest.apk",
+  "sha256": "0ad3756c9d8cac8f5eef090b01916823b2b39309968777053c6fdb5814173d36",
+  "sizeBytes": 359040589,
+  "notes": "Fixes immersive-scene-setup-failed on rc68"
 }
