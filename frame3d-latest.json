@@ -1,8 +1,8 @@
 {
-  "versionCode": 209,
-  "versionName": "1.84-rc76",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc76/Frame3D-quest.apk",
-  "sha256": "a9f1f852431ab0419144ea5ef40aeb5cd3aa39c84b4c64b5f9bc5cf679924021",
-  "sizeBytes": 359089949,
-  "notes": "Parallax and 3D run together; parallax measures lean, not where you sat down"
+  "versionCode": 210,
+  "versionName": "1.84-rc77",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc77/Frame3D-quest.apk",
+  "sha256": "9bc08848302b59f364bb7947826527ec038b3580002b04dcd057b6f83e25d94c",
+  "sizeBytes": 359106753,
+  "notes": "One button runs every check and sends it; parallax and 3D run together"
 }
