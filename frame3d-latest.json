@@ -1,8 +1,8 @@
 {
-  "versionCode": 204,
-  "versionName": "1.84-rc71",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc71/Frame3D-quest.apk",
-  "sha256": "c2dd189a319fc60037d253a3cecb140a9f061c528aa419c88445f905ee08024b",
-  "sizeBytes": 359057397,
-  "notes": "Reports upload to GitHub from the headset; immersive crash fix"
+  "versionCode": 205,
+  "versionName": "1.84-rc72",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc72/Frame3D-quest.apk",
+  "sha256": "b2260869719895611fe2915e986403a9a3f8e49c0b6dd6a97bd06934a58ef12a",
+  "sizeBytes": 359056733,
+  "notes": "Three-step 3D test with live numbers on screen"
 }
