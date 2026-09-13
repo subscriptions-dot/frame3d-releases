@@ -1,8 +1,8 @@
 {
-  "versionCode": 210,
-  "versionName": "1.84-rc77",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc77/Frame3D-quest.apk",
-  "sha256": "9bc08848302b59f364bb7947826527ec038b3580002b04dcd057b6f83e25d94c",
-  "sizeBytes": 359106753,
-  "notes": "One button runs every check and sends it; parallax and 3D run together"
+  "versionCode": 211,
+  "versionName": "1.84-rc78",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc78/Frame3D-quest.apk",
+  "sha256": "c4cc60ea721f2558e8541a1ad871742b4efc68c923745481943b118b60d52a8b",
+  "sizeBytes": 359106417,
+  "notes": "Fast 3D sees pictures again: the Smart-only rules were filtering Fast's list"
 }
