@@ -1,8 +1,8 @@
 {
-  "versionCode": 211,
-  "versionName": "1.84-rc78",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc78/Frame3D-quest.apk",
-  "sha256": "c4cc60ea721f2558e8541a1ad871742b4efc68c923745481943b118b60d52a8b",
-  "sizeBytes": 359106417,
-  "notes": "Fast 3D sees pictures again: the Smart-only rules were filtering Fast's list"
+  "versionCode": 212,
+  "versionName": "1.84-rc79",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc79/Frame3D-quest.apk",
+  "sha256": "3d848439c8a93d1739ff9b74fffc65a879360e3dac0be2d98337fde9e70886e1",
+  "sizeBytes": 359106309,
+  "notes": "The app now says when you are in the flat 2D window, where no 3D exists. Settings opens in its own tab."
 }
