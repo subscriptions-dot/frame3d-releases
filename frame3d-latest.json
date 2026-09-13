@@ -1,8 +1,8 @@
 {
-  "versionCode": 214,
-  "versionName": "1.84-rc81",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc81/Frame3D-quest.apk",
-  "sha256": "a312b73434395e3893d3445a593c670151dd8e8c780e47f6340fdd2c588cb7c6",
-  "sizeBytes": 359188205,
-  "notes": "Firefox add-on store on GeckoView; the 2D window honours the engine switch"
+  "versionCode": 215,
+  "versionName": "1.84-rc82",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc82/Frame3D-quest.apk",
+  "sha256": "8344c2dbfcbd52abf1f1c6e0d252e40bde7c5dc63ecd925810e4160ffcd0a2ff",
+  "sizeBytes": 359188273,
+  "notes": "Site permissions work on GeckoView; tabs restore instead of being offered and lost"
 }
