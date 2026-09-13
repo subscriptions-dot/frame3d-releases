@@ -1,8 +1,8 @@
 {
-  "versionCode": 213,
-  "versionName": "1.84-rc80",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc80/Frame3D-quest.apk",
-  "sha256": "b6de942900f784a77218155932a68ad45f938cbc2c43d4eeb9684d8a6099db2a",
-  "sizeBytes": 359123093,
-  "notes": "Tab chip and profile dot sized to their row"
+  "versionCode": 214,
+  "versionName": "1.84-rc81",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc81/Frame3D-quest.apk",
+  "sha256": "a312b73434395e3893d3445a593c670151dd8e8c780e47f6340fdd2c588cb7c6",
+  "sizeBytes": 359188205,
+  "notes": "Firefox add-on store on GeckoView; the 2D window honours the engine switch"
 }
