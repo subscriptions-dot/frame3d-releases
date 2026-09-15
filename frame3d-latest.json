@@ -1,8 +1,8 @@
 {
-  "versionCode": 220,
-  "versionName": "1.84-rc87",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc87/Frame3D-quest.apk",
-  "sha256": "4587b32bc133b02c041fceb2e96dc4323f9c8a0b313fda346e7241767275a80a",
-  "sizeBytes": 359287177,
+  "versionCode": 221,
+  "versionName": "1.84-rc88",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc88/Frame3D-quest.apk",
+  "sha256": "8daf8c00fdde6798a4e448af68b5a44b7341192e870f30f1fac5181df4ba97b2",
+  "sizeBytes": 359304021,
   "notes": ""
 }
