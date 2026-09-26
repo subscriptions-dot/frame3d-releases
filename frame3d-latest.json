@@ -1,8 +1,8 @@
 {
-  "versionCode": 228,
-  "versionName": "1.84-rc95",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc95/Frame3D-quest.apk",
-  "sha256": "62590da09204a055e9f6d439e1081741912de4ab37255f76f4fdf199ae82a40a",
-  "sizeBytes": 359468745,
-  "notes": "RC95: Smart model now loads (V3 weights name), Smart renderer links, page probe port fixed, popup crash fixed, no more about:blank search, Settings always opens as its own tab. Quest re-test required."
+  "versionCode": 229,
+  "versionName": "1.84-rc96",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc96/Frame3D-quest.apk",
+  "sha256": "2424bf3e5bb3d2f8b8a1a341dd7aed9f1adff11a44d55091956c7c17eeef1a47",
+  "sizeBytes": 359501845,
+  "notes": "RC96: sharper centre screen (full pixels per eye on normal pages), Breakout works on the picture Smart takes, YouTube no longer stalls when resized, extra toolbar under the screen removed, simpler Diagnostics. Includes all RC95 fixes. Quest re-test required."
 }
