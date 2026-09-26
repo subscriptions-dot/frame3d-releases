@@ -1,8 +1,8 @@
 {
-  "versionCode": 229,
-  "versionName": "1.84-rc96",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc96/Frame3D-quest.apk",
-  "sha256": "2424bf3e5bb3d2f8b8a1a341dd7aed9f1adff11a44d55091956c7c17eeef1a47",
-  "sizeBytes": 359501845,
-  "notes": "RC96: sharper centre screen (full pixels per eye on normal pages), Breakout works on the picture Smart takes, YouTube no longer stalls when resized, extra toolbar under the screen removed, simpler Diagnostics. Includes all RC95 fixes. Quest re-test required."
+  "versionCode": 230,
+  "versionName": "1.84-rc97",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc97/Frame3D-quest.apk",
+  "sha256": "4a3b3d66593c31f97a05f0fc9266d11b439bd798468e25bf608ae391bb352f9a",
+  "sizeBytes": 359502165,
+  "notes": "RC97: Smart depth model now runs (V3), YouTube no longer stops after fullscreen, no lines/boxes on 3D pictures, less blinking and jitter, one-tap Send report, cleaner top bar, dock and Home. Quest re-test required."
 }
