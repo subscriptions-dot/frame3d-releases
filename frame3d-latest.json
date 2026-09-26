@@ -1,8 +1,8 @@
 {
-  "versionCode": 227,
-  "versionName": "1.84-rc94",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc94/Frame3D-quest.apk",
-  "sha256": "8740421fdfe3ea8286286a5607e1e0ebd89cc2fde820567657ed1f7543b96281",
-  "sizeBytes": 359467909,
-  "notes": "RC94: direct Gecko page-bridge recovery and complete depth-model selection recovery. Quest re-test required for Smart, media probe and perceived sharpness."
+  "versionCode": 228,
+  "versionName": "1.84-rc95",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc95/Frame3D-quest.apk",
+  "sha256": "62590da09204a055e9f6d439e1081741912de4ab37255f76f4fdf199ae82a40a",
+  "sizeBytes": 359468745,
+  "notes": "RC95: Smart model now loads (V3 weights name), Smart renderer links, page probe port fixed, popup crash fixed, no more about:blank search, Settings always opens as its own tab. Quest re-test required."
 }
