@@ -1,8 +1,8 @@
 {
-  "versionCode": 226,
-  "versionName": "1.84-rc93",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc93/Frame3D-quest.apk",
-  "sha256": "578e427ad505720cd2efc12d14c130d80b99030ecbc4a00c9876170a636bd49b",
-  "sizeBytes": 359451421,
-  "notes": "RC93: depth model download integrity and Quest 3 default sharpness. Quest hardware validation pending."
+  "versionCode": 227,
+  "versionName": "1.84-rc94",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc94/Frame3D-quest.apk",
+  "sha256": "8740421fdfe3ea8286286a5607e1e0ebd89cc2fde820567657ed1f7543b96281",
+  "sizeBytes": 359467909,
+  "notes": "RC94: direct Gecko page-bridge recovery and complete depth-model selection recovery. Quest re-test required for Smart, media probe and perceived sharpness."
 }
