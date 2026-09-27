@@ -1,8 +1,8 @@
 {
-  "versionCode": 231,
-  "versionName": "1.84-rc98",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc98/Frame3D-quest.apk",
-  "sha256": "c96ca06c9532ade0e0568480693320db58df8ae2ce142bee19f255a12828276f",
-  "sizeBytes": 359503217,
-  "notes": "RC98: cleaner top bar (site name only, tab count, close on hover), rail is Home / Library / Settings, lighter on the GPU, shorter messages. Includes all RC97 fixes. Quest re-test required."
+  "versionCode": 233,
+  "versionName": "1.84-rc100",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc100/Frame3D-quest.apk",
+  "sha256": "5ff363902b1317e31339d3528eeec2eb21ab8629d83a7289d7d2dde96f4ccc4d",
+  "sizeBytes": 359531314,
+  "notes": "RC100: 3D button on each photo and video (turn on in the dock's 3D menu), Live video 3D (test), no black box, desktop YouTube, compact notices. Quest re-test required."
 }
