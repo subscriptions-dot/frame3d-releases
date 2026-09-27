@@ -1,8 +1,8 @@
 {
-  "versionCode": 233,
-  "versionName": "1.84-rc100",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc100/Frame3D-quest.apk",
-  "sha256": "5ff363902b1317e31339d3528eeec2eb21ab8629d83a7289d7d2dde96f4ccc4d",
-  "sizeBytes": 359531314,
-  "notes": "RC100: 3D button on each photo and video (turn on in the dock's 3D menu), Live video 3D (test), no black box, desktop YouTube, compact notices. Quest re-test required."
+  "versionCode": 234,
+  "versionName": "1.84-rc101",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc101/Frame3D-quest.apk",
+  "sha256": "f53ca93fdb355076f0c919b365e7211cfec308791eec2be0843348ed67f61ae5",
+  "sizeBytes": 359548146,
+  "notes": "RC101: 3D video player (tap a video's 3D button), centred play/pause, wider cleaner dock, depth updates per second in Settings. Quest re-test required."
 }
