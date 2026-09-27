@@ -1,8 +1,8 @@
 {
-  "versionCode": 234,
-  "versionName": "1.84-rc101",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc101/Frame3D-quest.apk",
-  "sha256": "f53ca93fdb355076f0c919b365e7211cfec308791eec2be0843348ed67f61ae5",
-  "sizeBytes": 359548146,
-  "notes": "RC101: 3D video player (tap a video's 3D button), centred play/pause, wider cleaner dock, depth updates per second in Settings. Quest re-test required."
+  "versionCode": 235,
+  "versionName": "1.84-rc102",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc102/Frame3D-quest.apk",
+  "sha256": "5247b14f61512a66ea250f652f65db2a8aa40799a0979765f14a2df9d822f9e7",
+  "sizeBytes": 359597266,
+  "notes": "RC102: video 3D button works in the same screen (video fills it, 3D at once), Smart player only when it gets real frames, steady Smart depth, 3D badge top-right, controller vibration. Quest re-test required."
 }
