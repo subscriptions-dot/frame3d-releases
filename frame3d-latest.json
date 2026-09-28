@@ -1,8 +1,8 @@
 {
-  "versionCode": 239,
-  "versionName": "1.84-rc106",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc106/Frame3D-quest.apk",
-  "sha256": "fe84fccc036eb3bba4fd59f8b9d6acbcbac817f3d697be80f558e4dc4e46c060",
-  "sizeBytes": 359727922,
-  "notes": "RC106: Diagnostics > Test all models downloads and benchmarks every model on the same video frames and sends the scores. Media bar seeks on release. Video focus badge fixes. Quest test required."
+  "versionCode": 240,
+  "versionName": "1.84-rc107",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc107/Frame3D-quest.apk",
+  "sha256": "7ff8a3d050b8c7c1dd02ced61ed507e26f20ba7a94729abc24127e02d631b7a1",
+  "sizeBytes": 359744306,
+  "notes": "RC107: no more black patches in 3D video, much faster Smart depth (DepthART on CPU, fast smoothing), 3D starts only from a 3D button, 3D pictures fill the screen like video. Models: DepthART Small and Medium only. Quest test required."
 }
