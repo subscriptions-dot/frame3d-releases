@@ -1,8 +1,8 @@
 {
-  "versionCode": 235,
-  "versionName": "1.84-rc102",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc102/Frame3D-quest.apk",
-  "sha256": "5247b14f61512a66ea250f652f65db2a8aa40799a0979765f14a2df9d822f9e7",
-  "sizeBytes": 359597266,
-  "notes": "RC102: video 3D button works in the same screen (video fills it, 3D at once), Smart player only when it gets real frames, steady Smart depth, 3D badge top-right, controller vibration. Quest re-test required."
+  "versionCode": 236,
+  "versionName": "1.84-rc103",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc103/Frame3D-quest.apk",
+  "sha256": "13f93a36a0fbc5c733df68dc576f94e1d485358b1527593a77cca1c547fcc07c",
+  "sizeBytes": 359597326,
+  "notes": "RC103: the video 3D player now covers the screen exactly (same size and place), and the video 3D button always uses Smart depth. Quest re-test required."
 }
