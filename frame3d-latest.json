@@ -1,8 +1,8 @@
 {
-  "versionCode": 236,
-  "versionName": "1.84-rc103",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc103/Frame3D-quest.apk",
-  "sha256": "13f93a36a0fbc5c733df68dc576f94e1d485358b1527593a77cca1c547fcc07c",
-  "sizeBytes": 359597326,
-  "notes": "RC103: the video 3D player now covers the screen exactly (same size and place), and the video 3D button always uses Smart depth. Quest re-test required."
+  "versionCode": 237,
+  "versionName": "1.84-rc104",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc104/Frame3D-quest.apk",
+  "sha256": "5c27cda9540b8ffc78d6d98729bc0ac0f29e9fbfd476b7bd1ac9433de2bf4fb2",
+  "sizeBytes": 359596850,
+  "notes": "RC104: Smart video is no longer flat (depth was being pulled to the screen plane). 3D player follows the screen size and position. Quest re-test required."
 }
