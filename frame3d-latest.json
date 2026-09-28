@@ -1,8 +1,8 @@
 {
-  "versionCode": 237,
-  "versionName": "1.84-rc104",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc104/Frame3D-quest.apk",
-  "sha256": "5c27cda9540b8ffc78d6d98729bc0ac0f29e9fbfd476b7bd1ac9433de2bf4fb2",
-  "sizeBytes": 359596850,
-  "notes": "RC104: Smart video is no longer flat (depth was being pulled to the screen plane). 3D player follows the screen size and position. Quest re-test required."
+  "versionCode": 238,
+  "versionName": "1.84-rc105",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc105/Frame3D-quest.apk",
+  "sha256": "055beea435e9f9908c79324a86ed80b447fe0a26b3b2dd166248140aa6274942",
+  "sizeBytes": 359728370,
+  "notes": "RC105: Smart 3D measures itself (timings, depth age, frames, headset fps) and sends a report after each 3D video; Run every check benchmarks every model on the same video frames. New models: V2 Small full precision, DepthART (Labs). Quest test required."
 }
