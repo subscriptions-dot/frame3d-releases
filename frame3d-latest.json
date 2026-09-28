@@ -1,8 +1,8 @@
 {
-  "versionCode": 238,
-  "versionName": "1.84-rc105",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc105/Frame3D-quest.apk",
-  "sha256": "055beea435e9f9908c79324a86ed80b447fe0a26b3b2dd166248140aa6274942",
-  "sizeBytes": 359728370,
-  "notes": "RC105: Smart 3D measures itself (timings, depth age, frames, headset fps) and sends a report after each 3D video; Run every check benchmarks every model on the same video frames. New models: V2 Small full precision, DepthART (Labs). Quest test required."
+  "versionCode": 239,
+  "versionName": "1.84-rc106",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc106/Frame3D-quest.apk",
+  "sha256": "fe84fccc036eb3bba4fd59f8b9d6acbcbac817f3d697be80f558e4dc4e46c060",
+  "sizeBytes": 359727922,
+  "notes": "RC106: Diagnostics > Test all models downloads and benchmarks every model on the same video frames and sends the scores. Media bar seeks on release. Video focus badge fixes. Quest test required."
 }
