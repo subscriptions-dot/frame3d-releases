@@ -1,8 +1,8 @@
 {
-  "versionCode": 241,
-  "versionName": "1.84-rc108",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc108/Frame3D-quest.apk",
-  "sha256": "c536c7e32c38bc12035fcf52bb8c6cd8624b28fa5965291845b3c9a3730ca2f6",
-  "sizeBytes": 359777494,
-  "notes": "RC108: test switch Smart 3D on all pictures (3D options) - every picture on the page in real Smart 3D, text stays flat. 3D badges no longer lag while scrolling. Cleaner settings. Quest test required."
+  "versionCode": 242,
+  "versionName": "1.84-rc109",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc109/Frame3D-quest.apk",
+  "sha256": "493c463c5e6052bf8e8b24bcbbacce229b31b21cad30c347032b200b39010229",
+  "sizeBytes": 359761518,
+  "notes": "RC109: site permissions work after Allow, simpler dock (Size, 3D, Recenter, Room, Cinema) and 3D settings, Gentle 3D by default, protected video shows 3D automatically, less background work. Quest test required."
 }
