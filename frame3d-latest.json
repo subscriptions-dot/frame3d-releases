@@ -1,8 +1,8 @@
 {
-  "versionCode": 242,
-  "versionName": "1.84-rc109",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc109/Frame3D-quest.apk",
-  "sha256": "493c463c5e6052bf8e8b24bcbbacce229b31b21cad30c347032b200b39010229",
-  "sizeBytes": 359761518,
-  "notes": "RC109: site permissions work after Allow, simpler dock (Size, 3D, Recenter, Room, Cinema) and 3D settings, Gentle 3D by default, protected video shows 3D automatically, less background work. Quest test required."
+  "versionCode": 243,
+  "versionName": "1.84-rc110",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc110/Frame3D-quest.apk",
+  "sha256": "c1e0e6ebd60d3865b391623ea8a32052e2a1d5b546207a82b6cf8613e942ce96",
+  "sizeBytes": 359727922,
+  "notes": "RC110: simpler Settings (General, 3D, Privacy with Sites, Extensions, About, Advanced), one consistent look, website notifications, camera and microphone fixes. Quest test required."
 }
