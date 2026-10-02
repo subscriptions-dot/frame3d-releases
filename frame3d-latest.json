@@ -1,8 +1,8 @@
 {
-  "versionCode": 244,
-  "versionName": "1.84-rc111",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc111/Frame3D-quest.apk",
-  "sha256": "fc816a729a7612ad088778a068ddde2fae2b24960210943b06f23a5c45ef6854",
-  "sizeBytes": 359858998,
-  "notes": "RC111: website pop-ups, dropdown lists and file upload work; Google/Microsoft sign-in pop-ups; truly private Private Tabs; downloads keep your sign-in; tapping a website notification opens the site. Quest test required."
+  "versionCode": 245,
+  "versionName": "1.84-rc112",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc112/Frame3D-quest.apk",
+  "sha256": "e1842d39041f97bf848a1e11f9680b31b895e34c6ac788c0bd845cd8fb249ff1",
+  "sizeBytes": 361862194,
+  "notes": "RC112: owner-review UI pass, voice commands and spatial-window work, plus Milky Way and Northern Lights spaces. Host build passed; Quest validation required."
 }
