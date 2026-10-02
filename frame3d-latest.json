@@ -1,8 +1,8 @@
 {
-  "versionCode": 246,
-  "versionName": "1.84-rc113",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc113/Frame3D-quest.apk",
-  "sha256": "f362cf6e04e2eae5ad4db9996dcf3577d075438004e05709172c056f85429371",
-  "sizeBytes": 165494915,
-  "notes": "RC113: websites load again (RC112 blank-page fix), extension switches fixed, offline voice (hold A/X or pinch in empty space), real 3D Galaxy and Space lounge, 35% smaller headset screen, faster thumbstick resize, APK 360 to 165 MB with faster install. Quest validation required."
+  "versionCode": 248,
+  "versionName": "1.84-rc115",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc115/Frame3D-quest.apk",
+  "sha256": "3af198b6b33975185f5b04e51bf863fd3a1958f58ce32eafbe583dbd7ab9d41b",
+  "sizeBytes": 197841343,
+  "notes": "RC115: new Aurora space with a turning northern-lights sky, cartoon clouds, a painted-grass hill, a Jacaranda tree and a cherry tree with fairy lights and falling petals. Everything from RC113 is included. Quest validation required."
 }
