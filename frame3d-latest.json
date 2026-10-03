@@ -1,8 +1,8 @@
 {
-  "versionCode": 249,
-  "versionName": "1.84-rc116",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc116/Frame3D-quest.apk",
-  "sha256": "679aa3d1090f9329711efbc2567885d54231be21f9678f6f3c101b2526384985",
-  "sizeBytes": 197845743,
-  "notes": "RC116: fixes the crash when choosing a Space or entering immersive with a Space chosen. The + new-tab button is smaller, including its circle. Voice commands like 'open YouTube' are smarter, and 'play ... on youtube' searches YouTube directly. Quest validation required."
+  "versionCode": 250,
+  "versionName": "1.84-rc117",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc117/Frame3D-quest.apk",
+  "sha256": "ab6b2248ddbe1368af415dcd2465ed1768ce9f63bc6baa4fa00c88b1810c8f71",
+  "sizeBytes": 228204730,
+  "notes": "RC117: tabs no longer go blank or reload in a loop. Inside spaces you can walk with the thumbsticks. There is an Exit VR button on the dock. Hold and drag a tab out to open it in a side window. Aurora has giant trees, twinkling lights, rippling aurora and falling petals, and the Space lounge is furnished. 3D Off in the player keeps playing the video. Better offline voice with Moonshine and Whisper, plus volume and brightness commands. About 55 bug fixes. Quest validation required."
 }
