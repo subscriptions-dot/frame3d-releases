@@ -1,8 +1,8 @@
 {
-  "versionCode": 254,
-  "versionName": "1.84-rc121",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc121/Frame3D-quest.apk",
-  "sha256": "4c041247e4afe39a42cd2b63b6f59868e85dc96ac81adff2c4cd3178b2832338",
-  "sizeBytes": 217828594,
-  "notes": "RC121: Frame3D no longer switches 3D off on DRM video (Netflix, Prime, Crunchyroll). It now tries 3D on every video; where the platform refuses the frames it falls back to plain 2D by itself. The new-tab + button lost its big box. Plus RC119/120: new aurora sky, deeper 3D, Smart frame-rate fixes, movable 3D badge. Quest validation required."
+  "versionCode": 255,
+  "versionName": "1.84-rc122",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc122/Frame3D-quest.apk",
+  "sha256": "28d168da7f7d3a7444bc871e81946dd50793dab61625429a2dbd80d1d5240aaa",
+  "sizeBytes": 217829722,
+  "notes": "RC122: Smart 3D depth runs smoother. The per-map depth post-processing was throwing away memory every frame (rebuilding fixed tables and re-allocating buffers), which made the headset pause to clean up — that showed as the video freezing for up to ~2 seconds and depth arriving late and re-settling. Same depth quality, same 8 MB model, just far less waste. Quest validation required: compare the Smart report's stall and depth-lag numbers against rc121."
 }
