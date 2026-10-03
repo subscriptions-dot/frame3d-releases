@@ -1,8 +1,8 @@
 {
-  "versionCode": 250,
-  "versionName": "1.84-rc117",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc117/Frame3D-quest.apk",
-  "sha256": "ab6b2248ddbe1368af415dcd2465ed1768ce9f63bc6baa4fa00c88b1810c8f71",
-  "sizeBytes": 228204730,
-  "notes": "RC117: tabs no longer go blank or reload in a loop. Inside spaces you can walk with the thumbsticks. There is an Exit VR button on the dock. Hold and drag a tab out to open it in a side window. Aurora has giant trees, twinkling lights, rippling aurora and falling petals, and the Space lounge is furnished. 3D Off in the player keeps playing the video. Better offline voice with Moonshine and Whisper, plus volume and brightness commands. About 55 bug fixes. Quest validation required."
+  "versionCode": 251,
+  "versionName": "1.84-rc118",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc118/Frame3D-quest.apk",
+  "sha256": "d225e911a95f87463d3f4ab2896fc4f0ec5a082c5fd2ecfc5621eda5b2043a58",
+  "sizeBytes": 217717674,
+  "notes": "RC118: voice commands are no longer typed into Google. Settings has a new Voice page that downloads the best voice. 3D is off on DRM video like Netflix and Prime. The dock has a 3D video button. The player controls hide by themselves. The lounge and aurora are cleaned up. Reports now include RAM, CPU, GPU and heat. Quest validation required."
 }
