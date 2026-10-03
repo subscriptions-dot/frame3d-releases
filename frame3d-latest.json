@@ -1,8 +1,8 @@
 {
-  "versionCode": 251,
-  "versionName": "1.84-rc118",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc118/Frame3D-quest.apk",
-  "sha256": "d225e911a95f87463d3f4ab2896fc4f0ec5a082c5fd2ecfc5621eda5b2043a58",
-  "sizeBytes": 217717674,
-  "notes": "RC118: voice commands are no longer typed into Google. Settings has a new Voice page that downloads the best voice. 3D is off on DRM video like Netflix and Prime. The dock has a 3D video button. The player controls hide by themselves. The lounge and aurora are cleaned up. Reports now include RAM, CPU, GPU and heat. Quest validation required."
+  "versionCode": 252,
+  "versionName": "1.84-rc119",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc119/Frame3D-quest.apk",
+  "sha256": "a51d74afb709d58a1cc76f019783b0604a25f2e3e787e780277e293c319d8a34",
+  "sizeBytes": 217829582,
+  "notes": "RC119: deeper 3D where the background sits further back and the subject separates from it. Smart 3D frame rate fixes. Player controls no longer pop up from a resting thumb and stay up while the video is paused. Hold and drag the 3D button to move it. A new aurora sky overhead, which moves 40% slower. Quest validation required."
 }
