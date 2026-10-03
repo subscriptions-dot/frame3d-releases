@@ -1,8 +1,8 @@
 {
-  "versionCode": 252,
-  "versionName": "1.84-rc119",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc119/Frame3D-quest.apk",
-  "sha256": "a51d74afb709d58a1cc76f019783b0604a25f2e3e787e780277e293c319d8a34",
-  "sizeBytes": 217829582,
-  "notes": "RC119: deeper 3D where the background sits further back and the subject separates from it. Smart 3D frame rate fixes. Player controls no longer pop up from a resting thumb and stay up while the video is paused. Hold and drag the 3D button to move it. A new aurora sky overhead, which moves 40% slower. Quest validation required."
+  "versionCode": 254,
+  "versionName": "1.84-rc121",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc121/Frame3D-quest.apk",
+  "sha256": "4c041247e4afe39a42cd2b63b6f59868e85dc96ac81adff2c4cd3178b2832338",
+  "sizeBytes": 217828594,
+  "notes": "RC121: Frame3D no longer switches 3D off on DRM video (Netflix, Prime, Crunchyroll). It now tries 3D on every video; where the platform refuses the frames it falls back to plain 2D by itself. The new-tab + button lost its big box. Plus RC119/120: new aurora sky, deeper 3D, Smart frame-rate fixes, movable 3D badge. Quest validation required."
 }
