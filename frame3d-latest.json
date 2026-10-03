@@ -1,8 +1,8 @@
 {
-  "versionCode": 248,
-  "versionName": "1.84-rc115",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc115/Frame3D-quest.apk",
-  "sha256": "3af198b6b33975185f5b04e51bf863fd3a1958f58ce32eafbe583dbd7ab9d41b",
-  "sizeBytes": 197841343,
-  "notes": "RC115: new Aurora space with a turning northern-lights sky, cartoon clouds, a painted-grass hill, a Jacaranda tree and a cherry tree with fairy lights and falling petals. Everything from RC113 is included. Quest validation required."
+  "versionCode": 249,
+  "versionName": "1.84-rc116",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc116/Frame3D-quest.apk",
+  "sha256": "679aa3d1090f9329711efbc2567885d54231be21f9678f6f3c101b2526384985",
+  "sizeBytes": 197845743,
+  "notes": "RC116: fixes the crash when choosing a Space or entering immersive with a Space chosen. The + new-tab button is smaller, including its circle. Voice commands like 'open YouTube' are smarter, and 'play ... on youtube' searches YouTube directly. Quest validation required."
 }
