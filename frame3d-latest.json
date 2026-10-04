@@ -1,8 +1,8 @@
 {
-  "versionCode": 263,
-  "versionName": "1.84-rc130",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc130/Frame3D-quest.apk",
-  "sha256": "e903b593c4f26e9b3020bcac779029302b998c5cb67b3fe8c80407e6d5244e82",
-  "sizeBytes": 251460066,
-  "notes": "RC130: an optimised (not debuggable) build so Frame3D's own processing runs at full speed; the depth model can now run on the headset's GPU (the 3D speed test tries it and picks the fastest path); update downloads now resume and retry by themselves instead of starting over; fixed a crash when closing the app while a space was loading; reports now show exactly where each millisecond goes. Run the 3D speed test, play 3D for a minute, send the report."
+  "versionCode": 264,
+  "versionName": "1.84-rc131",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc131/Frame3D-quest.apk",
+  "sha256": "70ac775dc4f4d8b676f084386e5b9cc7d5e22a0cebc67ab75fc8e9ff917aa31f",
+  "sizeBytes": 280292400,
+  "notes": "RC131: Breakout rebuilt on Smart - the person or nearest thing comes a little out of the screen (Settings > Advanced > 3D > Breakout, Low/Medium/High). Sharper depth: cleaner video frames into the model, every object's edge smoothed (no line around outlines), photos converted at up to 736 px (~720p). New Depth detail setting with estimated time. Faster GPU start, smoother depth up to 25/s."
 }
