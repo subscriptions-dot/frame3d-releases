@@ -1,8 +1,8 @@
 {
-  "versionCode": 262,
-  "versionName": "1.84-rc129",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc129/Frame3D-quest.apk",
-  "sha256": "255e208b7c579cf1f4567061f193d5f9799f48853d8ca1d479ce27fb54cad93b",
-  "sizeBytes": 265285882,
-  "notes": "RC129: Smart 3D depth works in two parallel stages now — while one frame's depth is being smoothed, the model is already working on the next — and the depth workers no longer wait behind the browser. Expect clearly more depth updates per second and less lag. Play a 3D video for a minute and send a report. Quest validation required."
+  "versionCode": 263,
+  "versionName": "1.84-rc130",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc130/Frame3D-quest.apk",
+  "sha256": "e903b593c4f26e9b3020bcac779029302b998c5cb67b3fe8c80407e6d5244e82",
+  "sizeBytes": 251460066,
+  "notes": "RC130: an optimised (not debuggable) build so Frame3D's own processing runs at full speed; the depth model can now run on the headset's GPU (the 3D speed test tries it and picks the fastest path); update downloads now resume and retry by themselves instead of starting over; fixed a crash when closing the app while a space was loading; reports now show exactly where each millisecond goes. Run the 3D speed test, play 3D for a minute, send the report."
 }
