@@ -1,8 +1,8 @@
 {
-  "versionCode": 255,
-  "versionName": "1.84-rc122",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc122/Frame3D-quest.apk",
-  "sha256": "28d168da7f7d3a7444bc871e81946dd50793dab61625429a2dbd80d1d5240aaa",
-  "sizeBytes": 217829722,
-  "notes": "RC122: Smart 3D depth runs smoother. The per-map depth post-processing was throwing away memory every frame (rebuilding fixed tables and re-allocating buffers), which made the headset pause to clean up — that showed as the video freezing for up to ~2 seconds and depth arriving late and re-settling. Same depth quality, same 8 MB model, just far less waste. Quest validation required: compare the Smart report's stall and depth-lag numbers against rc121."
+  "versionCode": 256,
+  "versionName": "1.84-rc123",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc123/Frame3D-quest.apk",
+  "sha256": "e050e58b2a0f0db9f421eee4b750f35ce55a0dec8edc891f0113bd4575134f0b",
+  "sizeBytes": 217831390,
+  "notes": "RC123: Smart 3D depth is faster and steadier. Depth post-processing runs quicker, report bookkeeping no longer slows it, Smart starts without a hitch, depth no longer 'breathes' on calm scenes, and new depth fades in without a small jump each update. Same model, same or better quality. Quest validation required."
 }
