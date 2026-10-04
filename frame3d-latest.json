@@ -1,8 +1,8 @@
 {
-  "versionCode": 264,
-  "versionName": "1.84-rc131",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc131/Frame3D-quest.apk",
-  "sha256": "70ac775dc4f4d8b676f084386e5b9cc7d5e22a0cebc67ab75fc8e9ff917aa31f",
-  "sizeBytes": 280292400,
-  "notes": "RC131: Breakout rebuilt on Smart - the person or nearest thing comes a little out of the screen (Settings > Advanced > 3D > Breakout, Low/Medium/High). Sharper depth: cleaner video frames into the model, every object's edge smoothed (no line around outlines), photos converted at up to 736 px (~720p). New Depth detail setting with estimated time. Faster GPU start, smoother depth up to 25/s."
+  "versionCode": 265,
+  "versionName": "1.84-rc132",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc132/Frame3D-quest.apk",
+  "sha256": "011cd51170d74960eab4cda9e5a247c4d21f646cfa0dbe6f4a591619e475f437",
+  "sizeBytes": 280293296,
+  "notes": "RC132: Smart / Breakout switch in the 3D panel while watching. Breakout no longer breaks at the screen edges (what comes out fades back near the edges, like a 3D cinema floating window) and starts at Medium. Includes everything from RC131."
 }
