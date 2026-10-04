@@ -1,8 +1,8 @@
 {
-  "versionCode": 261,
-  "versionName": "1.84-rc128",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc128/Frame3D-quest.apk",
-  "sha256": "9e7deafeebbe611e79f117935d39f7fb80b74062e33d4e049fabceac5adad1bb",
-  "sizeBytes": 265284098,
-  "notes": "RC128: a fast 8-bit version of the 3D depth model (about 3x quicker, same picture). Settings > 3D > 3D speed test tests both models on the CPU, GPU and NPU and switches 3D to the fastest path that keeps the depth at 96% or better. Run it, play a 3D video for a minute, then press Send report. Quest validation required."
+  "versionCode": 262,
+  "versionName": "1.84-rc129",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc129/Frame3D-quest.apk",
+  "sha256": "255e208b7c579cf1f4567061f193d5f9799f48853d8ca1d479ce27fb54cad93b",
+  "sizeBytes": 265285882,
+  "notes": "RC129: Smart 3D depth works in two parallel stages now — while one frame's depth is being smoothed, the model is already working on the next — and the depth workers no longer wait behind the browser. Expect clearly more depth updates per second and less lag. Play a 3D video for a minute and send a report. Quest validation required."
 }
