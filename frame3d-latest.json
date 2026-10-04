@@ -1,8 +1,8 @@
 {
-  "versionCode": 257,
-  "versionName": "1.84-rc124",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc124/Frame3D-quest.apk",
-  "sha256": "61e37c89f8097b37e90766bd441f34a41516b60271706d15eaca0fb2960b4094",
-  "sizeBytes": 263111368,
-  "notes": "RC124: much more 3D depth (animation is no longer halved, and large screens get the full slider), the depth worker runs on the fast CPU cores again, and an automatic NPU test: about 30 seconds after you open the app it times the depth model on the CPU, GPU and NPU in the background and adds an 'NPU test' section to reports. Keep the app open ~3 minutes, then send a report. Quest validation required."
+  "versionCode": 258,
+  "versionName": "1.84-rc125",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc125/Frame3D-quest.apk",
+  "sha256": "1be86f78ebbac6d7fe71ebc3bbcdc2d116077e3e782457cad909214817bf0c30",
+  "sizeBytes": 265280561,
+  "notes": "RC125: a version of the 3D depth model built for the headset's NPU (same depth, 99.6% match in testing). About 30 seconds after you open the app, the NPU test runs by itself: it checks the NPU is faster AND gives the same depth as before. Only if both are true does 3D switch to the NPU, automatically. Keep the app open ~3 minutes, then send a report. Quest validation required."
 }
