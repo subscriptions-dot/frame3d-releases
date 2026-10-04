@@ -1,8 +1,8 @@
 {
-  "versionCode": 259,
-  "versionName": "1.84-rc126",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc126/Frame3D-quest.apk",
-  "sha256": "b737a9b583b712155000136db49a597778e116a16fdbe441bed554af72b16985",
-  "sizeBytes": 267278704,
-  "notes": "RC126: the automatic NPU test now records exactly which parts of the depth model the NPU refuses, so the next step can fix them. Open the app, keep it open about 3 minutes, then send a report. Nothing else changes; 3D stays on the CPU unless the NPU proves faster with the same depth. Quest validation required."
+  "versionCode": 260,
+  "versionName": "1.84-rc127",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc127/Frame3D-quest.apk",
+  "sha256": "5868dbdfb040a5771538356993f479f6debb95a7a86d499d5fd73c0edc1f045e",
+  "sizeBytes": 267285268,
+  "notes": "RC127: Settings > 3D now has an NPU test card. Press 'Run NPU test', keep the app open about 2 minutes (it tells you when it starts and finishes), then press 'Send report' on the same card. Quest validation required."
 }
