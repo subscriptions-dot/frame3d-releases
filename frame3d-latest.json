@@ -1,8 +1,8 @@
 {
-  "versionCode": 265,
-  "versionName": "1.84-rc132",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc132/Frame3D-quest.apk",
-  "sha256": "011cd51170d74960eab4cda9e5a247c4d21f646cfa0dbe6f4a591619e475f437",
-  "sizeBytes": 280293296,
-  "notes": "RC132: Smart / Breakout switch in the 3D panel while watching. Breakout no longer breaks at the screen edges (what comes out fades back near the edges, like a 3D cinema floating window) and starts at Medium. Includes everything from RC131."
+  "versionCode": 266,
+  "versionName": "1.84-rc133",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc133/Frame3D-quest.apk",
+  "sha256": "5cdc603bca5c00fd24fc0d9cdc28f5cf2e9dcbc61d2d05928b476314fae6d547",
+  "sizeBytes": 280293852,
+  "notes": "RC133: sending a report no longer fails when two go at once (uploads queue and retry by themselves). Includes Smart / Breakout switch and everything from RC131-RC132."
 }
