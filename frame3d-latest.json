@@ -1,8 +1,8 @@
 {
-  "versionCode": 269,
-  "versionName": "1.84-rc136",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc136/Frame3D-quest.apk",
-  "sha256": "3a0dacb1ba2ac17537f495beac94d3fb6aaec0560a8e8934b88bda40709e7cd3",
-  "sizeBytes": 328506868,
-  "notes": "RC136: Lounge with real cloth, stone and wood textures and proper lamp light; owner's curved sofa recoloured. Room light slider now dims the whole room (20-100%), new Light colour slider (warm to white) in every space. Right thumbstick click hides/shows all windows. Dock Browser button fixed. Aurora: sky choice and new purple blossom tree."
+  "versionCode": 270,
+  "versionName": "1.84-rc137",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc137/Frame3D-quest.apk",
+  "sha256": "60159f78f33ff051cd07153649775574c20551236e2a6b4de544fdf24f99e630",
+  "sizeBytes": 325528716,
+  "notes": "RC137: Lounge with new modern curved boucle sofa (original pillows), round boucle armchair, brass bowl and books on the table, copper pendant lamps, globe lamp, clean stone planters. New Height option (Low / Middle / High) in the Environment card for every space."
 }
