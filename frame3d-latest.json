@@ -1,8 +1,8 @@
 {
-  "versionCode": 268,
-  "versionName": "1.84-rc135",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc135/Frame3D-quest.apk",
-  "sha256": "1e355b5ecde3e133cd3a6daf1a5e276d8e3f516f05da66ed346f1367656662c9",
-  "sizeBytes": 313712256,
-  "notes": "RC135: Lounge rebuilt like the warm sunset reference - new curved boucle sofa, cloth pillows, boucle chair, travertine drum table with brass side table, decor, round jute rug, planters with plants, curtain glow, wood-slat wall with oval mirror; all lights baked so the headset shows the same warm light; room 20% narrower. New sky choice: Sunset sea (Environment card)."
+  "versionCode": 269,
+  "versionName": "1.84-rc136",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc136/Frame3D-quest.apk",
+  "sha256": "3a0dacb1ba2ac17537f495beac94d3fb6aaec0560a8e8934b88bda40709e7cd3",
+  "sizeBytes": 328506868,
+  "notes": "RC136: Lounge with real cloth, stone and wood textures and proper lamp light; owner's curved sofa recoloured. Room light slider now dims the whole room (20-100%), new Light colour slider (warm to white) in every space. Right thumbstick click hides/shows all windows. Dock Browser button fixed. Aurora: sky choice and new purple blossom tree."
 }
