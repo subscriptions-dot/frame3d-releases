@@ -1,8 +1,8 @@
 {
-  "versionCode": 267,
-  "versionName": "1.84-rc134",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc134/Frame3D-quest.apk",
-  "sha256": "9942374bd273e26504c6a88f6524d50b904f5c08d7e426897a96f5a07db2a968",
-  "sizeBytes": 294814404,
-  "notes": "RC134: new dock (now playing, Home/Browser/Media, 3D/Screen/Environment cards, clock and battery); Media page for videos and photos on the headset; Fisheye; ambient sound and Room light; Lounge furnished with new sofa, tables and plants; new 8K galaxy sky (or classic stars); add-on permission and theme fixes; Breakout and curved screen removed; fresh browser on every launch."
+  "versionCode": 268,
+  "versionName": "1.84-rc135",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc135/Frame3D-quest.apk",
+  "sha256": "1e355b5ecde3e133cd3a6daf1a5e276d8e3f516f05da66ed346f1367656662c9",
+  "sizeBytes": 313712256,
+  "notes": "RC135: Lounge rebuilt like the warm sunset reference - new curved boucle sofa, cloth pillows, boucle chair, travertine drum table with brass side table, decor, round jute rug, planters with plants, curtain glow, wood-slat wall with oval mirror; all lights baked so the headset shows the same warm light; room 20% narrower. New sky choice: Sunset sea (Environment card)."
 }
