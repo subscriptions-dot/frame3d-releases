@@ -1,8 +1,8 @@
 {
-  "versionCode": 270,
-  "versionName": "1.84-rc137",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc137/Frame3D-quest.apk",
-  "sha256": "60159f78f33ff051cd07153649775574c20551236e2a6b4de544fdf24f99e630",
-  "sizeBytes": 325528716,
-  "notes": "RC137: Lounge with new modern curved boucle sofa (original pillows), round boucle armchair, brass bowl and books on the table, copper pendant lamps, globe lamp, clean stone planters. New Height option (Low / Middle / High) in the Environment card for every space."
+  "versionCode": 272,
+  "versionName": "1.84-rc139",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc139/Frame3D-quest.apk",
+  "sha256": "afa68783350ab3395ad69551cd2196cb2c9f3d82fe64618b39f0444a70154022",
+  "sizeBytes": 336905844,
+  "notes": "RC139: Lounge re-lit like the reference - hidden lights under the sofa, chair and curtain, plant uplights, glowing roof and floor rings, mirror back glow, warm white light; new pleated curtain, bigger rug, wider stone table with bronze side table, pillows in two groups. Room light now dims to 10%. Media chip on the dock takes you back to a playing video. Hide-all needs the right stick held."
 }
