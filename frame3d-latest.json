@@ -1,8 +1,8 @@
 {
-  "versionCode": 272,
-  "versionName": "1.84-rc139",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc139/Frame3D-quest.apk",
-  "sha256": "afa68783350ab3395ad69551cd2196cb2c9f3d82fe64618b39f0444a70154022",
-  "sizeBytes": 336905844,
-  "notes": "RC139: Lounge re-lit like the reference - hidden lights under the sofa, chair and curtain, plant uplights, glowing roof and floor rings, mirror back glow, warm white light; new pleated curtain, bigger rug, wider stone table with bronze side table, pillows in two groups. Room light now dims to 10%. Media chip on the dock takes you back to a playing video. Hide-all needs the right stick held."
+  "versionCode": 273,
+  "versionName": "1.84-rc140",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc140/Frame3D-quest.apk",
+  "sha256": "bff4ae9d83531becb690414457fd199780aa77c25cf6c593e5c7a3c91c388cdc",
+  "sizeBytes": 336425124,
+  "notes": "RC140: golden Lounge (warm light, natural curtain, seated pillows, draped throw), new Golden sunset sky (Environment > Sky), Firefox themes now apply, dock fits small windows, Now-playing chip fixes, light map on UV set 1."
 }
