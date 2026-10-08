@@ -1,8 +1,8 @@
 {
-  "versionCode": 274,
-  "versionName": "1.84-rc141",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc141/Frame3D-quest.apk",
-  "sha256": "d97fd945ccb1ff84d49cdc9954582780282c0b5dcab2aac69053e75f78a53b12",
-  "sizeBytes": 344458408,
-  "notes": "RC141: tabs stay on screen, Firefox themes and add-ons, first-run tour, Lounge and Aurora redone, Media videos start in 3D, many fixes."
+  "versionCode": 275,
+  "versionName": "1.84-rc142",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc142/Frame3D-quest.apk",
+  "sha256": "5282265a4c01d56946d16801d2f37c76ff55021957d13d175663d91be39bc524",
+  "sizeBytes": 344510601,
+  "notes": "Prepared 3D for Media videos (smoother, steadier 3D after a short wait); pausing no longer turns 3D off; passwords saved safely and the password field shows its dots; no page zoom in the headset; one 3D row: 2D, AI 3D, Pop-out 3D; environment picture tiles; buffering line in the player."
 }
