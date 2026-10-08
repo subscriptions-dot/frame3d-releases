@@ -1,8 +1,8 @@
 {
-  "versionCode": 273,
-  "versionName": "1.84-rc140",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc140/Frame3D-quest.apk",
-  "sha256": "bff4ae9d83531becb690414457fd199780aa77c25cf6c593e5c7a3c91c388cdc",
-  "sizeBytes": 336425124,
-  "notes": "RC140: golden Lounge (warm light, natural curtain, seated pillows, draped throw), new Golden sunset sky (Environment > Sky), Firefox themes now apply, dock fits small windows, Now-playing chip fixes, light map on UV set 1."
+  "versionCode": 274,
+  "versionName": "1.84-rc141",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc141/Frame3D-quest.apk",
+  "sha256": "d97fd945ccb1ff84d49cdc9954582780282c0b5dcab2aac69053e75f78a53b12",
+  "sizeBytes": 344458408,
+  "notes": "RC141: tabs stay on screen, Firefox themes and add-ons, first-run tour, Lounge and Aurora redone, Media videos start in 3D, many fixes."
 }
