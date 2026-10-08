@@ -1,8 +1,8 @@
 {
-  "versionCode": 276,
-  "versionName": "1.84-rc143",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc143/Frame3D-quest.apk",
-  "sha256": "df680ff30aba0129c4d5a1521a0f07ef19bd13b74614ed7c279e5f92b89529ed",
-  "sizeBytes": 334211619,
-  "notes": "No double screen under the tour and dialogs; Media videos fill the window in their own shape (reels upright); faster live 3D with the same quality, no flat half second on scene changes; Brightness in Galaxy and Aurora, every sky in every space; Lounge plants fixed; Aurora stones removed."
+  "versionCode": 277,
+  "versionName": "1.84-rc144",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc144/Frame3D-quest.apk",
+  "sha256": "0865efb8d638ecda34563a8d9dceacfb38675972be15d796cee154950624a37c",
+  "sizeBytes": 334213191,
+  "notes": "Hotfix: Galaxy and Aurora no longer crash the headset view; a space that ever crashes is switched off at the next launch so the app always opens; changing the sky keeps your place; a new tab stays Home."
 }
