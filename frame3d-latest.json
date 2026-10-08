@@ -1,8 +1,8 @@
 {
-  "versionCode": 278,
-  "versionName": "1.84-rc145",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc145/Frame3D-quest.apk",
-  "sha256": "75a92995006eb44f2d4fb0cfd787b82cbff4b760978140a0e973a51137256dfa",
-  "sizeBytes": 334220827,
-  "notes": "More depth maps a second with the same quality; slow and talking scenes no longer judder; animated themes play; the theme shows on Settings and every Frame3D page; new updates show within a minute."
+  "versionCode": 279,
+  "versionName": "1.84-rc146",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc146/Frame3D-quest.apk",
+  "sha256": "a9db54d0df9b2be858b9e18fe5ba44c2b9684be18f6b59669547a8a467c8e933",
+  "sizeBytes": 334221983,
+  "notes": "New first-run tour (About › Getting started to see it again); Frame3D's own text names no company and has no site-specific ad blocker — add-ons can do that."
 }
