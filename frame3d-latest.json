@@ -1,8 +1,8 @@
 {
-  "versionCode": 277,
-  "versionName": "1.84-rc144",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc144/Frame3D-quest.apk",
-  "sha256": "0865efb8d638ecda34563a8d9dceacfb38675972be15d796cee154950624a37c",
-  "sizeBytes": 334213191,
-  "notes": "Hotfix: Galaxy and Aurora no longer crash the headset view; a space that ever crashes is switched off at the next launch so the app always opens; changing the sky keeps your place; a new tab stays Home."
+  "versionCode": 278,
+  "versionName": "1.84-rc145",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc145/Frame3D-quest.apk",
+  "sha256": "75a92995006eb44f2d4fb0cfd787b82cbff4b760978140a0e973a51137256dfa",
+  "sizeBytes": 334220827,
+  "notes": "More depth maps a second with the same quality; slow and talking scenes no longer judder; animated themes play; the theme shows on Settings and every Frame3D page; new updates show within a minute."
 }
