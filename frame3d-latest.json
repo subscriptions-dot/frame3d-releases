@@ -1,8 +1,8 @@
 {
-  "versionCode": 280,
-  "versionName": "1.84-rc147",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc147/Frame3D-quest.apk",
-  "sha256": "1df92054749a609e30f9ec9e2d6f3edd5e20cb14a737e3032740ac15dc611117",
-  "sizeBytes": 334269959,
-  "notes": "Multi-window (three windows side by side or anywhere; carry one onto the main screen to swap); grip a window and push the stick to move it nearer or further; hold A to speak; the video's light on the space; copy/paste and a long-press menu; the site's own play/pause and next/previous; Secure DNS; films resume where you stopped; downloads play in Frame3D."
+  "versionCode": 281,
+  "versionName": "1.84-rc148",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc148/Frame3D-quest.apk",
+  "sha256": "b5ed1b89456ac07b8d74f3c3ecc1bffdab2d23d21066065fad74b921e6c93850",
+  "sizeBytes": 334271543,
+  "notes": "Page video in 3D fills the screen on every site; the main video, not an ad, gets the controls; websites' 180°/360°/SBS videos from the 3D menu; walking in a space works again; controller buttons only act in the headset view; stronger screen light; Play works after a long seek."
 }
