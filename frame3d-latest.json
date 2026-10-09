@@ -1,8 +1,8 @@
 {
-  "versionCode": 282,
-  "versionName": "1.84-rc149",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc149/Frame3D-quest.apk",
-  "sha256": "13d8e60332fe62897ff03d68b99805df31d43e5f83db38042b3aa42758032c01",
-  "sizeBytes": 334353077,
-  "notes": "Theme Center: customise every theme (button shape, font, cards, accent, wallpaper from gallery, presets, brightness, blur); new Dot, Dot Light, Paper, Midnight themes. One button style everywhere. 3D panel with four big tiles. 3D badge visible on black video and hides while scrolling. Themes look right (picture colours, header pictures, animated themes play). Side windows sharper and turned in, landing outline, dock grows with distance. Keyboard shortcuts."
+  "versionCode": 283,
+  "versionName": "1.84-rc150",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc150/Frame3D-quest.apk",
+  "sha256": "b2167d25e82945905628b623ed087d0f007d4ace3ef0ea5a2672b9be701978b1",
+  "sizeBytes": 230813748,
+  "notes": "Smaller app (231 MB, was 319): Space lounge and Aurora download the first time you choose them, with a progress line on the Environment card. Galaxy and the skies stay in the app."
 }
