@@ -1,8 +1,8 @@
 {
-  "versionCode": 279,
-  "versionName": "1.84-rc146",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc146/Frame3D-quest.apk",
-  "sha256": "a9db54d0df9b2be858b9e18fe5ba44c2b9684be18f6b59669547a8a467c8e933",
-  "sizeBytes": 334221983,
-  "notes": "New first-run tour (About › Getting started to see it again); Frame3D's own text names no company and has no site-specific ad blocker — add-ons can do that."
+  "versionCode": 280,
+  "versionName": "1.84-rc147",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc147/Frame3D-quest.apk",
+  "sha256": "1df92054749a609e30f9ec9e2d6f3edd5e20cb14a737e3032740ac15dc611117",
+  "sizeBytes": 334269959,
+  "notes": "Multi-window (three windows side by side or anywhere; carry one onto the main screen to swap); grip a window and push the stick to move it nearer or further; hold A to speak; the video's light on the space; copy/paste and a long-press menu; the site's own play/pause and next/previous; Secure DNS; films resume where you stopped; downloads play in Frame3D."
 }
