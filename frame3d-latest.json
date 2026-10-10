@@ -1,8 +1,8 @@
 {
-  "versionCode": 291,
-  "versionName": "1.84-rc158",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc158/Frame3D-quest.apk",
-  "sha256": "1639aa28d762158dfe1a7e9d0fce7240130702a048dd8632d51c8c550a7fd2c1",
-  "sizeBytes": 231030543,
-  "notes": "WebXR controllers, head direction and exit (hold B); stability fixes from a code scan."
+  "versionCode": 292,
+  "versionName": "1.84-rc159",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc159/Frame3D-quest.apk",
+  "sha256": "993fbef2f057164ef83f7abc4ac29c5d8218604cd9989e696438dc4e7a68db3d",
+  "sizeBytes": 231039235,
+  "notes": "WebXR freeze fixed; App timeline monitoring in reports; one VR button; Exit video inside the player."
 }
