@@ -1,8 +1,8 @@
 {
-  "versionCode": 295,
-  "versionName": "1.84-rc162",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc162/Frame3D-quest.apk",
-  "sha256": "ffb8f4e0c07e9d893b8224b990f82217cdb8e3ad5cbf48fdc46267fef678abc8",
-  "sizeBytes": 231047419,
-  "notes": "Leave WebXR with the Menu button or by holding B; on-screen hint."
+  "versionCode": 296,
+  "versionName": "1.84-rc163",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc163/Frame3D-quest.apk",
+  "sha256": "61341abee133440006dc5dc141568ee6f940febc31a463c043f434d56ffa3a00",
+  "sizeBytes": 231046651,
+  "notes": "180 SBS no longer shown as two flat pictures when an earlier page choice existed."
 }
