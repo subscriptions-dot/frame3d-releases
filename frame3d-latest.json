@@ -1,8 +1,8 @@
 {
-  "versionCode": 289,
-  "versionName": "1.84-rc156",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc156/Frame3D-quest.apk",
-  "sha256": "efa1b6d82425cfe49d743bcecd84198b7ce6bb4f8a17b059f6ec9ba862e989a8",
-  "sizeBytes": 230889643,
-  "notes": "Add-on installs finish; VR videos after an advert detected correctly; WebXR session can start."
+  "versionCode": 290,
+  "versionName": "1.84-rc157",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc157/Frame3D-quest.apk",
+  "sha256": "047c524d5f4b7b16a5737f6afde209b0be2698e7004b965fda38423f5ade8738",
+  "sizeBytes": 230896935,
+  "notes": "WebXR shown in the headset (first version); crash after WebXR fixed; 180/360 players found; SBS/TB on every page."
 }
