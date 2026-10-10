@@ -1,8 +1,8 @@
 {
-  "versionCode": 283,
-  "versionName": "1.84-rc150",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc150/Frame3D-quest.apk",
-  "sha256": "b2167d25e82945905628b623ed087d0f007d4ace3ef0ea5a2672b9be701978b1",
-  "sizeBytes": 230813748,
-  "notes": "Smaller app (231 MB, was 319): Space lounge and Aurora download the first time you choose them, with a progress line on the Environment card. Galaxy and the skies stay in the app."
+  "versionCode": 284,
+  "versionName": "1.84-rc151",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc151/Frame3D-quest.apk",
+  "sha256": "4489d7483563da9e77c3f2b7befc30c20fe73a9454b0cd1c7800921eb93de4cd",
+  "sizeBytes": 230829576,
+  "notes": "VR videos on websites are recognised: the chip says VR 180 3D, 360 or 3D SBS and opens it as that; other videos say AI 3D. 180 and 360 fill the space around you; the dock fades away; Up, Down, Face me; right stick skips 10 s."
 }
