@@ -1,8 +1,8 @@
 {
-  "versionCode": 293,
-  "versionName": "1.84-rc160",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc160/Frame3D-quest.apk",
-  "sha256": "4c7b4d7b4f468442b05629effa023f09fb5f9cc0d557e6cb544b9025d462671d",
-  "sizeBytes": 231042987,
-  "notes": "Black VR picture fixed (page keeps playing); player asks like the page with fallback; richer report."
+  "versionCode": 294,
+  "versionName": "1.84-rc161",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc161/Frame3D-quest.apk",
+  "sha256": "d1fa522cbd3a8fc2cd6afc8b0d1f7c32eca0a815db88e0eb96cbd89df594bdc4",
+  "sizeBytes": 231045411,
+  "notes": "180 page video shows the real film; WebXR pink test second and detailed checks."
 }
