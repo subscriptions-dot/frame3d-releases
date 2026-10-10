@@ -1,8 +1,8 @@
 {
-  "versionCode": 294,
-  "versionName": "1.84-rc161",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc161/Frame3D-quest.apk",
-  "sha256": "d1fa522cbd3a8fc2cd6afc8b0d1f7c32eca0a815db88e0eb96cbd89df594bdc4",
-  "sizeBytes": 231045411,
-  "notes": "180 page video shows the real film; WebXR pink test second and detailed checks."
+  "versionCode": 295,
+  "versionName": "1.84-rc162",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc162/Frame3D-quest.apk",
+  "sha256": "ffb8f4e0c07e9d893b8224b990f82217cdb8e3ad5cbf48fdc46267fef678abc8",
+  "sizeBytes": 231047419,
+  "notes": "Leave WebXR with the Menu button or by holding B; on-screen hint."
 }
