@@ -1,8 +1,8 @@
 {
-  "versionCode": 286,
-  "versionName": "1.84-rc153",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc153/Frame3D-quest.apk",
-  "sha256": "c8dd92ea8502afd246737b8289a1f5467178fe5e3167e467894920512b8bf427",
-  "sizeBytes": 230879847,
-  "notes": "WebXR test (Settings > Developer), Secure DNS provider choice, blocker watch in report, fixed VR/AI 3D chip colours, smaller nav bar growth."
+  "versionCode": 287,
+  "versionName": "1.84-rc154",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc154/Frame3D-quest.apk",
+  "sha256": "39fcb5d682085a8e25a1a7b760e03dc9f5935619cd644853075a7fb05fb75dfb",
+  "sizeBytes": 230882311,
+  "notes": "Add-ons install again from addons.mozilla.org; WebXR test page opens; website videos light the space; Invalid address no longer pops up by itself; smaller notices."
 }
