@@ -1,8 +1,8 @@
 {
-  "versionCode": 285,
-  "versionName": "1.84-rc152",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc152/Frame3D-quest.apk",
-  "sha256": "cb777539a8f3242a03cc331786e0b098873ddcafecdbce9ae2b5009c861f8dab",
-  "sizeBytes": 230861032,
-  "notes": "VR videos on real sites: YouTube 360/180 opens in YouTube VR; VR sites' own players (Delight, JW, video.js, Three.js) and split videos recognised; chip only when sure; SBS/TB/180/360 always in the 3D menu. Dock follows the film, not previews. Links that did nothing now open. Report sends itself on frame drops, freezes or a stalled video."
+  "versionCode": 286,
+  "versionName": "1.84-rc153",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc153/Frame3D-quest.apk",
+  "sha256": "c8dd92ea8502afd246737b8289a1f5467178fe5e3167e467894920512b8bf427",
+  "sizeBytes": 230879847,
+  "notes": "WebXR test (Settings > Developer), Secure DNS provider choice, blocker watch in report, fixed VR/AI 3D chip colours, smaller nav bar growth."
 }
