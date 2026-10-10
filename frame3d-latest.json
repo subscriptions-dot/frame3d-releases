@@ -1,8 +1,8 @@
 {
-  "versionCode": 284,
-  "versionName": "1.84-rc151",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc151/Frame3D-quest.apk",
-  "sha256": "4489d7483563da9e77c3f2b7befc30c20fe73a9454b0cd1c7800921eb93de4cd",
-  "sizeBytes": 230829576,
-  "notes": "VR videos on websites are recognised: the chip says VR 180 3D, 360 or 3D SBS and opens it as that; other videos say AI 3D. 180 and 360 fill the space around you; the dock fades away; Up, Down, Face me; right stick skips 10 s."
+  "versionCode": 285,
+  "versionName": "1.84-rc152",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc152/Frame3D-quest.apk",
+  "sha256": "cb777539a8f3242a03cc331786e0b098873ddcafecdbce9ae2b5009c861f8dab",
+  "sizeBytes": 230861032,
+  "notes": "VR videos on real sites: YouTube 360/180 opens in YouTube VR; VR sites' own players (Delight, JW, video.js, Three.js) and split videos recognised; chip only when sure; SBS/TB/180/360 always in the 3D menu. Dock follows the film, not previews. Links that did nothing now open. Report sends itself on frame drops, freezes or a stalled video."
 }
