@@ -1,8 +1,8 @@
 {
-  "versionCode": 297,
-  "versionName": "1.84-rc164",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc164/Frame3D-quest.apk",
-  "sha256": "0f16bbb2ed2fb7c49a255832c570c4e426fc21e1d6ef0b591eabc7d176ff9f37",
-  "sizeBytes": 231047559,
-  "notes": "Site VR view keeps the video picture alive; dock hidden in WebXR; head direction in report."
+  "versionCode": 298,
+  "versionName": "1.84-rc165",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc165/Frame3D-quest.apk",
+  "sha256": "6d6aec1d2a727123752dd2d40b3df222ae23127c033ba18c0bf794e2fca8e86e",
+  "sizeBytes": 231053135,
+  "notes": "Report-send crash fixed; 180 sphere no blink; page-side monitoring; real WebXR test scene."
 }
