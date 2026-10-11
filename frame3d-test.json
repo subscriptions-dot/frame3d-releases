@@ -1,8 +1,8 @@
 {
-  "versionCode": 1007,
-  "versionName": "1.84-rc168-test-aee0cd70",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/test-aee0cd70-1007/Frame3D-TEST-aee0cd70.apk",
-  "sha256": "dcf2487a557951073a8f58081f2da6e9c10dcac473c86d918fade8ea22646150",
-  "sizeBytes": 231060787,
-  "notes": "Owner test build aee0cd70"
+  "versionCode": 1008,
+  "versionName": "1.84-rc168-test-07806b9a",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/test-07806b9a-1008/Frame3D-TEST-07806b9a.apk",
+  "sha256": "8ec2a0a2b6daa78a78185c25f125a5e00163b35621395404b99b5394f93ac0a0",
+  "sizeBytes": 231061711,
+  "notes": "Owner test build 07806b9a"
 }
