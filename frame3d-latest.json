@@ -1,8 +1,8 @@
 {
-  "versionCode": 299,
-  "versionName": "1.84-rc166",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc166/Frame3D-quest.apk",
-  "sha256": "9b97848302aa82ebc0a5da66de45efe868cfb3a0c4a3c266f30f877e282a7882",
-  "sizeBytes": 231056587,
-  "notes": "180 film placed right; sure way out of VR; WebXR test fixed; freeze finder."
+  "versionCode": 300,
+  "versionName": "1.84-rc167",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc167/Frame3D-quest.apk",
+  "sha256": "9ea37d80d5d228dac667f243ab7fe1a057672b0c3ab58d4766fd64cf05b5667c",
+  "sizeBytes": 231055943,
+  "notes": "Crash on a site's VR icon fixed; SBS joint back; film sound in VR."
 }
