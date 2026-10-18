@@ -1,8 +1,8 @@
 {
-  "versionCode": 301,
-  "versionName": "1.84-rc168",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc168/Frame3D-quest.apk",
-  "sha256": "5265f57f1bbc8ec689c0dd81c7d2f2aecd5c58ceb31ed2111f3e28f3d12a69c9",
-  "sizeBytes": 231058771,
-  "notes": ""
+  "versionCode": 302,
+  "versionName": "1.84-rc173",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc173/Frame3D-quest.apk",
+  "sha256": "b50148aba230f2943346612aeddf4bc2d0227bea1e18c13ee2e661512a6787db",
+  "sizeBytes": 232034972,
+  "notes": "Latest beta-source changes in original app; WebXR film stick fix included. Quest retest recommended."
 }
