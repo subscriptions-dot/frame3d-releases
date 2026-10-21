@@ -1,8 +1,8 @@
 {
-  "versionCode": 302,
-  "versionName": "1.84-rc173",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc173/Frame3D-quest.apk",
-  "sha256": "b50148aba230f2943346612aeddf4bc2d0227bea1e18c13ee2e661512a6787db",
-  "sizeBytes": 232034972,
-  "notes": "Latest beta-source changes in original app; WebXR film stick fix included. Quest retest recommended."
+  "versionCode": 303,
+  "versionName": "1.84-rc174",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc174/Frame3D-quest.apk",
+  "sha256": "afc71db27b517c5f46f4e251077a4d456ac6c4e1895047e34e6d7c6041768410",
+  "sizeBytes": 232037116,
+  "notes": "Smooth VR-film stick (eases in, speeds up, glides to a stop); steady Copy/Paste bar and ray-tolerant long press; other tab no longer goes black after headset off; keyboard diagnostics for the backspace issue."
 }
