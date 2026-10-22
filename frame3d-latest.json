@@ -1,8 +1,8 @@
 {
-  "versionCode": 303,
-  "versionName": "1.84-rc174",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc174/Frame3D-quest.apk",
-  "sha256": "afc71db27b517c5f46f4e251077a4d456ac6c4e1895047e34e6d7c6041768410",
-  "sizeBytes": 232037116,
-  "notes": "Smooth VR-film stick (eases in, speeds up, glides to a stop); steady Copy/Paste bar and ray-tolerant long press; other tab no longer goes black after headset off; keyboard diagnostics for the backspace issue."
+  "versionCode": 304,
+  "versionName": "1.84-rc175",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc175/Frame3D-quest.apk",
+  "sha256": "72f04c5e3388a3ffc90e531e89a41d581a6147e07cee87f7e03c4f98878fc3ce",
+  "sizeBytes": 232042328,
+  "notes": "RC175: Back goes back in page history; Reader mode, text size and open-in-player work; Reload retries failed pages; zip files download; address bar keeps typing and selects all on focus; double-press guards; dialog loops stopped; typed field values never logged."
 }
