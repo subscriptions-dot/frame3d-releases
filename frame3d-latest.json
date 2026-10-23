@@ -1,8 +1,8 @@
 {
-  "versionCode": 305,
-  "versionName": "1.84-rc178",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc178/Frame3D-quest.apk",
-  "sha256": "d4d33ca983346852b79d5f17462bf1ffa869d3b25547a01303be35aa0c536d8e",
-  "sizeBytes": 232059508,
-  "notes": "RC178: VR and AI 3D from the 2D window open the headset view and just play; badge AI 3D only; WebXR games at 90 Hz with even pacing, MSAA and early ack like Wolvic; page layer test switch; save picture with cookies; Enter answers page dialogs."
+  "versionCode": 306,
+  "versionName": "1.84-rc179",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc179/Frame3D-quest.apk",
+  "sha256": "b02df103b2c19ff6c5d6c3a29857b2785e03871653397af7c91b4525fa27a16a",
+  "sizeBytes": 219962890,
+  "notes": ""
 }
