@@ -1,8 +1,8 @@
 {
-  "versionCode": 314,
-  "versionName": "1.84-rc187",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc187/Frame3D-quest.apk",
-  "sha256": "cc476822bc5049422b0fd49c2fb05bbcf927b825f711ff6fac00126ea59af81f",
-  "sizeBytes": 222699192,
-  "notes": ""
+  "versionCode": 315,
+  "versionName": "1.84-rc188",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc188/Frame3D-quest.apk",
+  "sha256": "9582ee6f271037d476f64f5f52c0064bd6326e90a549b7cec6d4290e5aa4160d",
+  "sizeBytes": 222725928,
+  "notes": "RC188: steady 3D person (no blink), Bluetooth gamepad + Quest controllers for web games, Desktop site = computer quality in games, add-on downloads and history clearing."
 }
