@@ -1,8 +1,8 @@
 {
-  "versionCode": 317,
-  "versionName": "1.84-rc190",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc190/Frame3D-quest.apk",
-  "sha256": "081cab2cd5c98723c3b19bd37298f5cf19b7694c4d418544dc941c3c88392d18",
-  "sizeBytes": 222787992,
-  "notes": ""
+  "versionCode": 318,
+  "versionName": "1.84-rc191",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc191/Frame3D-quest.apk",
+  "sha256": "69bb34297926f4dd035c689d1e59a43933244b6af30b9ac2e010c99226780220",
+  "sizeBytes": 222788660,
+  "notes": "Lounge V9: real plants, olive tree in uniform round cream pots, wall art with ceiling downlights, walnut slats, cream loop sofa, chestnut accents (pack spaces-4). Includes RC190 (Aurora V3, audit fixes)."
 }
