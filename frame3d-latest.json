@@ -1,8 +1,8 @@
 {
-  "versionCode": 319,
-  "versionName": "1.84-rc192",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc192/Frame3D-quest.apk",
-  "sha256": "6b3861edca65ae88289479f95044f34b7719b35082cc12803996cc08a83f674e",
-  "sizeBytes": 222791372,
-  "notes": "Fixes the crash when opening the Aurora space (new pack spaces-5 downloads once). Light themes: no grey box behind cards and tiles, no shadow box behind the selected Settings icon, theme previews keep their card shape, accent colours no longer clash while a theme is on."
+  "versionCode": 320,
+  "versionName": "1.84-rc193",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc193/Frame3D-quest.apk",
+  "sha256": "2c65ca574f274a226846609af848fd1e6bf30703551c065826d887090dd32299",
+  "sizeBytes": 222791532,
+  "notes": "New Liquid Glass themes (day and night): clear frosted glass, lit edges, glass toolbar. Smart 3D uses less CPU: the person mask runs every second or third depth map, held in between. Includes RC192 (Aurora crash fix, light-theme fixes)."
 }
