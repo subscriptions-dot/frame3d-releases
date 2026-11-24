@@ -1,8 +1,8 @@
 {
-  "versionCode": 320,
-  "versionName": "1.84-rc193",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc193/Frame3D-quest.apk",
-  "sha256": "2c65ca574f274a226846609af848fd1e6bf30703551c065826d887090dd32299",
-  "sizeBytes": 222791532,
-  "notes": "New Liquid Glass themes (day and night): clear frosted glass, lit edges, glass toolbar. Smart 3D uses less CPU: the person mask runs every second or third depth map, held in between. Includes RC192 (Aurora crash fix, light-theme fixes)."
+  "versionCode": 321,
+  "versionName": "1.84-rc194",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc194/Frame3D-quest.apk",
+  "sha256": "d2c4fab42d370e16cff1901614fb1803c364ad2a67d800df261eefbbe098f2f2",
+  "sizeBytes": 222942936,
+  "notes": "New Aurora lake: clear water reflecting the aurora and mountains, a pebbly shore with mossy stones, water lilies and koi, two hazy mountain ranges, deeper sky, fuller grass; walk to the water's edge. Smart 3D: slow-scene cuts no longer go flat before the depth arrives. Nav bar no longer blinks on hover; dock labels always shown. Lounge: no walking through the sofa. (Aurora downloads again, about 55 MB.)"
 }
