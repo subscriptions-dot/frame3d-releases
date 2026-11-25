@@ -1,8 +1,8 @@
 {
-  "versionCode": 326,
-  "versionName": "1.84-rc199",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc199/Frame3D-quest.apk",
-  "sha256": "673b2811c5069db8ad429d207fe631ea18e325c041d3fa484bdb8e217ba06c78",
-  "sizeBytes": 222978988,
-  "notes": "Aurora: blossom trees with real round wood and sharper bark (lighter than RC198) (thick trunk, branches thinning out) and no clusters hanging in the air; 40 koi that really swim (whole-body wave, head first, round the shore and never under the bank, both ways, in little schools, each at its own pace); calmer sky, birds, koi and grass wind; three-plane grass; cheaper fog. Smart 3D: stricter soft cuts and a short cross-fade on a scene cut, so pop-out (STRONG) no longer feels like the eyes reload. (Aurora downloads again.)"
+  "versionCode": 327,
+  "versionName": "1.84-rc200",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc200/Frame3D-quest.apk",
+  "sha256": "406e70ac355e59c34d6de61b620ea0301a01ba2eff3eae66f4b19bb5a5bbb2cb",
+  "sizeBytes": 222991948,
+  "notes": "Lighter and smoother: Smart 3D no longer stalls the headset while it computes depth; things you cannot see give their memory back (hidden windows, the tab before, the 3D model with 3D off, the space with the headset off); Aurora textures compressed on the GPU (same picture). Grabbing a window: no dock blink, no push-back; a held screen goes up to 2.4 m and moves 2.5x with your hand, as in Horizon OS. Hands at rest during a film (controllers down) no longer pause it \u2014 pinch 1.2 s to use them. Voice hold fixed. Pop-out 3D eases scene cuts. Hide windows button in Environment. Thumbstick scroll is always Wolvic's. Reports now say what was happening at each jerk. (Aurora downloads again.)"
 }
