@@ -1,8 +1,8 @@
 {
-  "versionCode": 325,
-  "versionName": "1.84-rc198",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc198/Frame3D-quest.apk",
-  "sha256": "b136d6a307dc7713c615aca911bc8c701f59468e3d0e2322dacb70ce841b955a",
-  "sizeBytes": 222979040,
-  "notes": "Aurora: blossom trees with real round wood and sharp 4k bark (thick trunk, branches thinning out) and no clusters hanging in the air; 40 koi that really swim (whole-body wave, head first, round the shore and never under the bank, both ways, in little schools, each at its own pace); calmer sky, birds, koi and grass wind; three-plane grass; cheaper fog. Smart 3D: stricter soft cuts and a short cross-fade on a scene cut, so pop-out (STRONG) no longer feels like the eyes reload. (Aurora downloads again.)"
+  "versionCode": 326,
+  "versionName": "1.84-rc199",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc199/Frame3D-quest.apk",
+  "sha256": "673b2811c5069db8ad429d207fe631ea18e325c041d3fa484bdb8e217ba06c78",
+  "sizeBytes": 222978988,
+  "notes": "Aurora: blossom trees with real round wood and sharper bark (lighter than RC198) (thick trunk, branches thinning out) and no clusters hanging in the air; 40 koi that really swim (whole-body wave, head first, round the shore and never under the bank, both ways, in little schools, each at its own pace); calmer sky, birds, koi and grass wind; three-plane grass; cheaper fog. Smart 3D: stricter soft cuts and a short cross-fade on a scene cut, so pop-out (STRONG) no longer feels like the eyes reload. (Aurora downloads again.)"
 }
