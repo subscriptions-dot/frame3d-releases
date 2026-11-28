@@ -1,8 +1,8 @@
 {
-  "versionCode": 328,
-  "versionName": "1.84-rc201",
-  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc201/Frame3D-quest.apk",
-  "sha256": "2e84c5a53ca9136f98b61a59a7a25e9d20323cb67deae1c733c292eb202fa849",
-  "sizeBytes": 222993688,
-  "notes": "Aurora walking: no more sinking into the ground or floating (the ground map now matches the V4 meadow out to the shore), and you walk round stones and trunks instead of stopping. Settings \u203a About links to the Frame3D website (start guide, help, FAQ, privacy). Smoother Smart 3D (less garbage, fewer jerks). Lighter with the headset off."
+  "versionCode": 329,
+  "versionName": "1.84-rc202",
+  "url": "https://github.com/subscriptions-dot/frame3d-releases/releases/download/v1.84-rc202/Frame3D-quest.apk",
+  "sha256": "7187131342998d485802d3cd7eed83aa75d812a54db89e4cc74bee6757c5db3e",
+  "sizeBytes": 222999988,
+  "notes": "Holding a screen moves it as one again (the dock, rail and player no longer drift apart and jump on release); a hand push or pull past 8 cm still sends it further. Leaving a space frees its memory (four switches used to keep ~650 MB). Smoother: less garbage from Smart 3D, the stabiliser, the person mask and the grab. With 3D Off in the player for 30 s the model is let go. Aurora draws its grass and flowers more efficiently (same picture). Reports no longer carry what you said to voice. Settings \u203a About lists open-source licences. (Aurora downloads again.)"
 }
